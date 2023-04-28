@@ -41,11 +41,6 @@ const Header = () => {
             <NavLink>Technologies</NavLink>
           </Link>
         </li>
-        <li>
-          <Link onClick={open('https://mrmiguetara.github.io/mrmiguetara-terminal')} href={"/"}>
-            <NavLink>Terminal Version</NavLink>
-          </Link>
-        </li>
       </Div2>
       <SocialMedia />
     </HeaderContainer>
