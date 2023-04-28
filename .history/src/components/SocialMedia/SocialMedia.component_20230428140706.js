@@ -6,21 +6,21 @@ export default function SocialMedia({inFooter}) {
   return (
     <SocialContainer inFooter={inFooter}>
       <SocialIcons
-        href="https://github.com/mrmiguetara"
+        href="https://github.com"
         title="Visit my github profile"
         target="_blank"
         rel="noopener noreferrer">
         <AiFillGithub size="3rem"/>
       </SocialIcons>
       <SocialIcons
-        href="https://www.linkedin.com/in/miguel-alejandro-gonzalez-jimenez"
+        href="https://www.linkedin.com/"
         title="Contact me on LinkedIn"
         target="_blank"
         rel="noopener noreferrer">
         <AiFillLinkedin size="3rem"/>
       </SocialIcons>
       <SocialIcons
-        href="mailto://mrmiguetara@gmail.com"
+        href="mailto://mail@domain.com"
         title="Send directly an email"
         target="_blank"
         rel="noopener noreferrer">

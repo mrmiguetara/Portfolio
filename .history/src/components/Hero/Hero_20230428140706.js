@@ -10,10 +10,10 @@ const Hero = () => (
       <LeftSection>
         <SectionTitle main center>
           Welcome To <br />
-          My Portfolio
+          My Personal Portfolio
         </SectionTitle>
         <SectionText style={{paddingBottom:0}}>
-        The purpose of this portfolio website is to show my work as a developer and quickly engage with the target audience. <br/>
+        The purpose of this portfolio website is to quickly become familiar with my few projects and general information about me. <br/>
           Access contact links for more details and a possible collaboration.
         </SectionText>
         {/*<Button onClick={props.handleClick}>Learn More</Button>*/}

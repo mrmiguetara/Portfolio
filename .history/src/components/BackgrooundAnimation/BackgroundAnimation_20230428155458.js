@@ -4,7 +4,7 @@ import {useDarkMode} from "next-dark-mode";
 const BackgroundAnimation = () => {
   const { darkModeActive } = useDarkMode();
   return <>
-  <svg xmlns="http://www.w3.org/2000/svg" data-name="Layer 1" width="500" height="572.2577514648438"
+  <svg xmlns="http://www.w3.org/2000/svg" data-name="Layer 1" width="786.8199462890625" height="572.2577514648438"
     viewBox="0 0 786.81995 572.25773" xmlnsXlink="http://www.w3.org/1999/xlink">
     <circle cx="458.32136" cy="74.18162" r="26.70075" fill="#f2f2f2" class="svg-elem-1"></circle>
     <path
