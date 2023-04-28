@@ -59,3 +59,19 @@ export const NavLink = styled.a`
     font-size: 1.5rem;
   }
 `;
+export const Link = styled.a`
+  font-size: 2rem;
+  line-height: 32px;
+  color: ${props => props.theme.colors.primary1};
+  cursor: pointer;
+  transition: color 0.3s ease;
+  
+  &:hover {
+    color: ${props => props.theme.colors.button};
+  }
+  
+  @media ${(props) => props.theme.breakpoints.sm} {
+    padding: 0.5rem;
+    font-size: 1.5rem;
+  }
+`;
