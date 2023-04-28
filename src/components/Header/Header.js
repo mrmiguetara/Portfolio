@@ -42,7 +42,7 @@ const Header = () => {
           </Link>
         </li>
         <li>
-          <Link onClick={open('https://mrmiguetara.github.io/mrmiguetara-terminal')} href={"#"}>
+          <Link onClick={open('https://mrmiguetara.github.io/mrmiguetara-terminal')} href={"/"}>
             <NavLink>Terminal Version</NavLink>
           </Link>
         </li>
