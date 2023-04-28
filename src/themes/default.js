@@ -23,13 +23,13 @@ const light = {
     background1: "#efefef",
     accent1: "#6C72CB",
     button: "hsl(205.1,100%,36.1%)",
-    background2: "#CB69C1",
+    background2: "#2b43aa",
     bgContrast: '#fff',
-    headingFirstGradientColor: '#CB69C1',
+    headingFirstGradientColor: '#2b43aa',
     icons: '#17181F',
     bodyBgColor: '#f7f7f7',
     shadow: 'rgba(0,0,0,0.3)',
-    svgTimeline: '#CB69C1',
+    svgTimeline: '#2b43aa',
     filterBtnBgColor: '#efefef'
   },
 }
