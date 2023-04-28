@@ -89,11 +89,12 @@ export const projects = [
     mainType: "react",
   },
   {
-    title: "Cryptocurrency",
+    title: "Cannibals and Missionaries",
+    url: 'https://github.com/mrmiguetara/assignment-3-ai',
     description:
-      "Cryptocurrency app is my best React application so far. It's built up using Ant design, RTK Query, ChartJS, Coinranking and Bing News API. I have learnt a lot of interesting technologies like RTK Query, ChartJS as well as integrating custom features into Ant components like filter/sorting data, view blocks as list/grid or implementing load more component.",
-    image: "images/jpgs/ReactCryptocurrencyApp.jpg",
-    imageWebp: "images/webps/ReactCryptocurrencyApp.webp",
+      "Implementation of the classic problem 'Cannibals and Missionaries'. The problem was formulated with the goal of being solved using a graph search algorithm",
+    image: "images/jpgs/artificial-intelligence-svgrepo-com.svg",
+    imageWebp: "images/jpgs/artificial-intelligence-svgrepo-com.svg",
     images: [
       {
         original:
@@ -127,24 +128,21 @@ export const projects = [
       },
     ],
     tags: [
-      "React",
-      "React Hooks",
-      "Redux",
-      "RTK Query",
-      "Rapid API",
-      "Ant Design",
-      "ChartJS",
+      "Python",
+      "AIMA3 library",
+      "Jupyter Notebooks",
     ],
     id: 7,
     order: 93,
     mainType: "react",
   },
   {
-    title: "RLibrary",
+    title: "N-Queens problem Imp",
+    url: 'https://github.com/mrmiguetara/ai-codingassignment-4',
     description:
-      "Simple CRUD books system using Firebase/Firestore, Material UI, React, React Hook Form, React Router v6 and all these things bundled by vite",
-    image: "images/jpgs/ReactLibraryHomeDark.jpg",
-    imageWebp: "images/webps/ReactLibraryHomeDark.webp",
+      "Implementation of the N-Queens problem to be solved using Hill Climbing and Simuated Annealing",
+    image: "images/jpgs/artificial-intelligence-svgrepo-com.svg",
+    imageWebp: "images/jpgs/artificial-intelligence-svgrepo-com.svg",
     images: [
       {
         original: "images/projects/Rlibrary/ReactLibraryHomeDark.jpg",
@@ -188,23 +186,20 @@ export const projects = [
       },
     ],
     tags: [
-      "React",
-      "React hooks",
-      "Context API",
-      "React Suspense",
-      "Router DOM v6",
-      "Firebase/Firestore",
-      "Material UI",
+      "Python",
+      "AIMA3 library",
+      "Jupyter Notebooks",
     ],
     id: 9,
     order: 91,
     mainType: "react",
   },
   {
-    title: "Chat Room [Test]",
+    title: "Checkers AI",
+    url: 'https://github.com/mrmiguetara/ai-assignment-4',
     description:
-      "An interview test project that aims to verify skills in understanding the task and building UI with React.",
-    image: "images/jpgs/React-test Chat Room Intro dark.jpg",
+      "An implementation of Checkers game using Game Theory and Monte Carlo Search Tree to make an AI agent",
+    image: "images/jpgs/artificial-intelligence-svgrepo-com.svg",
     imageWebp: "images/webps/React-test Chat Room Intro dark.webp",
     images: [
       {
@@ -244,13 +239,9 @@ export const projects = [
       },
     ],
     tags: [
-      "Typescript",
-      "Jotai",
-      "SWR",
-      "Tailwind CSS",
-      "Headless UI",
-      "json server",
-      "React Error Boundary",
+      "Python",
+      "AIMA3 library",
+      "Jupyter Notebooks",
     ],
     id: 12,
     order: 88,

@@ -36,8 +36,13 @@ const ProjectCard = ({ item }) => {
   const openModal = () => setIsOpen(true);
   const toggleModal = () => setIsOpen(!isOpen);
 
-  const { title, description, tags, image, imageWebp, images } =
+
+  const { title, description, tags, image, imageWebp, images, url } =
     item;
+
+  const openUrl = () => {
+    open(url)
+  }
 
   return (
     <motion.div
@@ -58,7 +63,7 @@ const ProjectCard = ({ item }) => {
         <Button
           type="button"
           aria-label="Open Project Gallery in a modal window"
-          onClick={openModal}
+          onClick={openUrl}
         >
           <BsPlusCircleFill />
         </Button>
