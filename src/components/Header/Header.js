@@ -42,12 +42,10 @@ const Header = () => {
           </Link>
         </li>
         <li>
-          <Link href={"#"}>
-            <a href={open('https://mrmiguetara.github.io/mrmiguetara-terminal')}>
-              <NavLink>
+          <Link href={"https://mrmiguetara.github.io/mrmiguetara-terminal"}>
+            <NavLink>
                 Terminal version
-              </NavLink>
-            </a>
+            </NavLink>
           </Link>
         </li>
       </Div2>
