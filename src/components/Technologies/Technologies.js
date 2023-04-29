@@ -67,7 +67,7 @@ const Technologies = () => (
           <ListTitle>Other Tools</ListTitle>
           <ListParagraph>
             Experience with <br />
-            Jira, Trello, Git, Linux
+            Jira, Trello, Git, Linux, MATLAB, Wireshark
           </ListParagraph>
         </ListContainer>
       </ListItem>
