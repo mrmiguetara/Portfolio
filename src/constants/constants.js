@@ -250,9 +250,9 @@ export const projects = [
 ];
 
 export const TimeLineData = [
-  { year: 2017, text: "Starting my journey as a Junior web developer" },
-  { year: 2018, text: "Working as a front-end developer" },
-  { year: 2019, text: "Working as a full stack developer" },
-  { year: 2021, text: "Diving completely into ReactJS World" },
-  { year: 2022, text: "Starting my journey as a Next.js developer" },
+  { year: 2016, text: "Started my carreer as a Software Engineer Student at INTEC in Dominican Republic" },
+  { year: 2018, text: "Working as a Junior Software Analyst" },
+  { year: 2019, text: "Started working as a full-stack developer at PiTech" },
+  { year: 2020, text: "Graduated from college. Started as a Backend Developer at Rezuelve" },
+  { year: 2022, text: "Started my M.S. studies at UPRM." },
 ];
