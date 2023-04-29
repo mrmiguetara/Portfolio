@@ -72,10 +72,10 @@ const Timeline = () => {
       <SectionDivider divider />
       <SectionTitle>About Me</SectionTitle>
       <SectionText>
-      My name is Miguel Gonzalez. I'm a software engineer focused mostly in backend development. 
+      Hello! As a software and AI engineering student, I've dedicated considerable time to honing my skills in Python, Java, and C++. Moreover, my interest in game theory and its application in complex decision-making environments has proven instrumental in my work. I'm also well-versed in local search algorithms, which I've found invaluable in addressing optimization problems. These skills have significantly contributed to the success of numerous projects I've undertaken.
       </SectionText>
       <SectionText>
-      
+      Additionally, I've immersed myself in the field of artificial intelligence, with a specific focus on graph search theories. These have been key in my development of intelligent systems capable of strategic planning and decision-making. My hands-on experience extends to a variety of projects that underscore my ability to effectively design, code, and implement AI concepts. I consistently welcome new challenges and look forward to the opportunity to apply my knowledge and skills to innovative projects. In the following sections, I am excited to showcase some of the projects that I have had the privilege of working on.
       </SectionText>
       <CarouselContainer ref={carouselRef} onScroll={handleScroll}>
         <>
