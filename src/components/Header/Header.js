@@ -47,7 +47,7 @@ const Header = () => {
           </Link>
         </li>
         <li>
-          <a href="/Miguel_s_Resume.pdf">
+          <a href="./Miguel_s_Resume.pdf">
             Get my resume
           </a>
         </li>
