@@ -3,7 +3,7 @@ import Link from 'next/link';
 import { useRouter } from 'next/router'
 import SocialMedia from "../SocialMedia/SocialMedia.component";
 import {HeaderContainer, Div1, Div2, NavLink} from './HeaderStyles';
-import pdf from './Miguel_s_Resume'
+import pdf from './Miguel_s_Resume.pdf'
 
 const Header = () => {
   const { route } = useRouter();
