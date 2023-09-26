@@ -46,6 +46,11 @@ const Header = () => {
             Open in Terminal Version
           </Link>
         </li>
+        <li>
+          <Link href="./Miguel_s_Resume.pdf">
+            Open in Terminal Version
+          </Link>
+        </li>
       </Div2>
       <SocialMedia />
     </HeaderContainer>
