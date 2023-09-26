@@ -47,8 +47,8 @@ const Header = () => {
           </Link>
         </li>
         <li>
-          <Link href="./Miguel_s_Resume.pdf">
-            Open in Terminal Version
+          <Link href="#" onClick={open("./Miguel_s_resume.pdf")}>
+            Download My Resume
           </Link>
         </li>
       </Div2>
